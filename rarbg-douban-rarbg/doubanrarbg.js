@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         DoubanRarbg
-// @namespace    http://tampermonkey.net/
+// @namespace    https://momane.com/
 // @version      0.1
 // @description  Search a movie in rarbg from douban page with just 1 click
-// @author       You
+// @author       Hank X
 // @match        https://movie.douban.com/subject/*
 // @icon         https://www.google.com/s2/favicons?domain=douban.com
 // @grant        none
