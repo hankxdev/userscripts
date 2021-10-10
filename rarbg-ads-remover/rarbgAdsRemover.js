@@ -19,6 +19,6 @@
   const adsLink = ads.querySelectorAll("a")
   if(adsLink && adsLink.length === 1){
       document.body.removeChild(ads)
-      console.log("find ads and removed", ads)
+      console.log("found ads and removed", ads)
   }
 })();
